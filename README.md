@@ -60,4 +60,4 @@ Please fork the repo, create a new branch, and open a pull request.
 
 ## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the [MIT License](./LICENSE).
