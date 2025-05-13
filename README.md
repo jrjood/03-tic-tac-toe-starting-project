@@ -10,7 +10,7 @@ This is a simple interactive Tic Tac Toe game built using **React** and styled w
 
 ## 🚀 Demo
 
-Play it live (if deployed): _Coming Soon_
+[🔗 View Live Site](https://jrjood.github.io/03-tic-tac-toe-starting-project/)
 
 ## 📦 Installation
 
